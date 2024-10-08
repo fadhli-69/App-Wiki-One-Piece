@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/about_page"
+        android:title="About"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/easter_egg"
+        android:title="@string/easter_egg"
+        android:orderInCategory="101"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_share"
+        android:title="Share"
+        android:icon="@android:drawable/ic_menu_share"
+        app:showAsAction="never" />
+</menu>

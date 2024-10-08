@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#2196F3</color>
+    <color name="orange">#FF2222</color>
+    <!-- Warna Primer -->
+    <color name="colorPrimaryBlue">#2196F3</color>
+    <color name="colorPrimaryGreen">#4CAF50</color>
+    <color name="colorPrimaryRed">#F44336</color>
+    <color name="colorPrimaryPurple">#9C27B0</color>
+
+    <!-- Warna Sekunder -->
+    <color name="colorSecondaryOrange">#FFA500</color>
+    <color name="colorSecondaryYellow">#FFEB3B</color>
+    <color name="colorSecondaryPink">#E91E63</color>
+
+    <!-- Warna Netral -->
+    <color name="colorNeutralWhite">#FFFFFF</color>
+    <color name="colorNeutralBlack">#000000</color>
+    <color name="colorNeutralGray">#9E9E9E</color>
+    <color name="colorNeutralDarkGray">#616161</color>
+
+    <!-- Warna Aksen -->
+    <color name="colorAccentCyan">#00BCD4</color>
+    <color name="colorAccentLime">#CDDC39</color>
+    <color name="colorAccentAmber">#FFC107</color>
+
+</resources>

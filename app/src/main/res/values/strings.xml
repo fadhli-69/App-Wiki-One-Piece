@@ -1,0 +1,152 @@
+<resources>
+    <string name="app_name">One Piece Wiki</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="description">Deskripsi</string>
+
+    <string name="nama_diri">Muhammad Nurfadhli</string>
+    <string name="email_diri">fadhli7261@gmail.com</string>
+
+    <string name="about">About Me</string>
+    <string name="easter_egg">Easter Egg</string>
+
+    <string name="bounty_format">Bounty: %1$s</string>
+    <string name="affiliation_format">Afiliasi: %1$s</string>
+    <string name="devil_fruit_format">Buah Iblis: %1$s</string>
+    <string name="abilities_format">Kemampuan: %1$s</string>
+    <string name="status_format">Status: %1$s</string>
+    <string name="origin_format">Asal: %1$s</string>
+    <string name="dream_format">Impian: %1$s</string>
+    <string name="share">Share</string>
+
+    <string-array name="data_name">
+        <item>Monkey D. Luffy</item>
+        <item>Roronoa Zoro</item>
+        <item>Nami</item>
+        <item>Usopp</item>
+        <item>Sanji</item>
+        <item>Tony Tony Chopper</item>
+        <item>Nico Robin</item>
+        <item>Franky</item>
+        <item>Brook</item>
+        <item>Jinbei</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Monkey D. Luffy, lahir di desa Foosha, adalah kapten Bajak Laut Topi Jerami dan salah satu tokoh utama dalam serial "One Piece". Dengan mimpi menjadi Raja Bajak Laut, ia memiliki kemampuan unik setelah memakan Buah Iblis Gomu Gomu no Mi, yang menjadikannya elastis. Luffy dikenal karena semangat juangnya yang tak tergoyahkan dan sikapnya yang ceria, serta kemampuannya untuk membentuk ikatan kuat dengan teman-temannya. Luffy selalu siap menghadapi tantangan demi mencapai tujuannya dan melindungi orang-orang yang dicintainya.</item>
+        <item>Roronoa Zoro, seorang pendekar pedang handal, adalah anggota pertama yang bergabung dengan Bajak Laut Topi Jerami. Ia memiliki tekad yang kuat untuk menjadi swordsman terkuat di dunia dan mewarisi gelar dari mantan rivalnya, Dracule Mihawk. Zoro menguasai teknik tiga pedang (Santoryu) dan dikenal karena keberaniannya dalam menghadapi musuh yang jauh lebih kuat. Meskipun tampak serius, Zoro juga memiliki sisi humoris dan sangat setia kepada Luffy dan kru.</item>
+        <item>Nami adalah navigator Bajak Laut Topi Jerami dan dikenal sebagai "Pencuri Harta Karun" yang brilian. Ia memiliki keahlian luar biasa dalam meteorologi dan pemetaan, menjadikannya penting bagi kru dalam menjelajahi lautan. Mimpinya adalah membuat peta dunia yang lengkap. Nami sering kali tampil cerdas dan strategis, meskipun dia juga bisa menjadi keras kepala ketika melindungi orang-orang yang dia cintai.</item>
+        <item>Usopp, dikenal sebagai "Usopp Sang Penembak Jitu", adalah seorang penembak dan inovator dalam kru. Awalnya, ia adalah seorang pembohong yang menciptakan cerita-cerita fantastis, tetapi seiring waktu, ia menjadi pahlawan yang sesungguhnya. Usopp memiliki keterampilan luar biasa dalam menciptakan senjata dan alat-alat, dan bertekad untuk menjadi seorang pejuang yang hebat. Ia juga menunjukkan keberanian meskipun sering kali terlihat ketakutan.</item>
+        <item>Sanji, juru masak Bajak Laut Topi Jerami, adalah seorang pria tampan yang terampil dalam memasak dan bertarung. Ia bermimpi untuk menemukan All Blue, tempat di mana semua lautan bertemu dan berbagai jenis ikan berkumpul. Sanji menggunakan teknik bertarung yang mengutamakan kaki, dan memiliki kode etik yang kuat, terutama terhadap wanita. Meskipun terkesan cool dan tenang, ia juga bisa menunjukkan sisi emosional yang dalam.</item>
+        <item>Tony Tony Chopper, dokter kru, adalah seekor rusa yang bisa berubah bentuk setelah memakan Buah Iblis Hito Hito no Mi. Dengan pengetahuan medisnya, ia berusaha untuk menyembuhkan semua orang di dunia. Chopper memiliki sifat yang naif dan ceria, tetapi juga sangat berani saat melindungi teman-temannya. Mimpinya adalah untuk menjadi dokter terbaik di dunia dan mendapatkan pengakuan sebagai dokter.</item>
+        <item>Nico Robin adalah arkeolog Bajak Laut Topi Jerami yang memiliki kemampuan untuk memunculkan bagian tubuhnya di mana saja setelah memakan Buah Iblis Hana Hana no Mi. Ia memiliki latar belakang yang tragis dan diburu karena pengetahuannya tentang Poneglyphs, yang mengandung rahasia sejarah dunia. Robin dikenal cerdas dan tenang, sering kali memberikan perspektif yang berharga untuk kru. Mimpinya adalah untuk mengungkap sejarah yang hilang dan menemukan Rio Poneglyph.</item>
+        <item>Franky, seorang cyborg, adalah pembuat kapal dan anggota kru yang menciptakan kapal Thousand Sunny. Ia memiliki tubuh yang dimodifikasi dengan berbagai senjata dan gadget, menjadikannya sangat kuat dalam pertempuran. Franky memiliki kepribadian yang ceria dan percaya diri, serta suka berpamer. Ia bermimpi untuk menciptakan kapal terbesar yang bisa menjelajahi seluruh dunia.</item>
+        <item>Brook, seorang musisi dan pemilik kemampuan Buah Iblis Yomi Yomi no Mi, dapat menghidupkan kembali jiwanya setelah meninggal. Dengan penampilan tengkorak dan gaya yang flamboyan, ia menambah elemen humor dalam kru. Brook sangat mencintai musik dan bercita-cita untuk menemukan lagu legendaris, "Binks' Sake". Meskipun memiliki penampilan menakutkan, ia sangat sopan dan berperilaku gentleman.</item>
+        <item>Jinbei, seorang mantan Shichibukai dan pemimpin suku ikan, adalah petarung yang kuat dan bijaksana. Sebagai seorang pengguna seni bela diri Fish-Man Karate, ia memiliki kekuatan fisik yang luar biasa. Jinbei sangat menghormati nilai persahabatan dan mengutamakan kesejahteraan teman-temannya. Mimpinya adalah untuk membawa kedamaian antara manusia dan suku ikan serta menciptakan dunia yang lebih baik bagi semua.</item>
+    </string-array>
+
+    <string-array name="data_bounty">
+        <item>1.500.000.000 Berry</item>
+        <item>320.000.000 Berry</item>
+        <item>366.000.000 Berry</item>
+        <item>500.000.000 Berry</item>
+        <item>330.000.000 Berry</item>
+        <item>100 Berry</item>
+        <item>130.000.000 Berry</item>
+        <item>394.000.000 Berry</item>
+        <item>383.000.000 Berry</item>
+        <item>438.000.000 Berry</item>
+    </string-array>
+
+    <string-array name="data_affiliation">
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+        <item>Bajak Laut Topi Jerami</item>
+    </string-array>
+
+    <string-array name="data_devil_fruit">
+        <item>Gomu Gomu no Mi (Hito Hito no Mi, Model: Nika)</item>
+        <item>Tidak ada</item>
+        <item>Tidak ada</item>
+        <item>Tidak ada</item>
+        <item>Tidak ada</item>
+        <item>Hito Hito no Mi</item>
+        <item>Hana Hana no Mi</item>
+        <item>Tidak ada</item>
+        <item>Yomi Yomi no Mi</item>
+        <item>Tidak ada</item>
+    </string-array>
+
+    <string-array name="data_abilities">
+        <item>Haki, Kemampuan Gomu Gomu no Mi</item>
+        <item>Santoryu (Gaya Tiga Pedang), Haki</item>
+        <item>Manipulasi cuaca dengan Clima-Tact</item>
+        <item>Keterampilan menembak, Pop Greens</item>
+        <item>Diable Jambe, Haki</item>
+        <item>Transformasi karena Hito Hito no Mi, keahlian medis</item>
+        <item>Kemampuan Hana Hana no Mi, Arkeologi</item>
+        <item>Peningkatan tubuh Cyborg, keahlian pembangunan kapal</item>
+        <item>Kemampuan Yomi Yomi no Mi (Kekuatan jiwa)</item>
+        <item>Karate Manusia Ikan, Haki</item>
+    </string-array>
+
+    <string-array name="data_status">
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Alive</item>
+        <item>Alive</item>
+    </string-array>
+
+    <string-array name="data_origin">
+        <item>East Blue</item>
+        <item>East Blue</item>
+        <item>East Blue</item>
+        <item>East Blue</item>
+        <item>North Blue</item>
+        <item>Grand Line (Pulau Drum)</item>
+        <item>West Blue</item>
+        <item>South Blue</item>
+        <item>West Blue</item>
+        <item>Grand Line (Pulau Manusia Ikan)</item>
+    </string-array>
+
+    <string-array name="data_dream">
+        <item>Menjadi Raja Bajak Laut</item>
+        <item>Menjadi pendekar pedang terkuat di dunia</item>
+        <item>Menggambar peta dunia</item>
+        <item>Menjadi pejuang laut yang pemberani</item>
+        <item>Menemukan All Blue</item>
+        <item>Menjadi dokter yang dapat menyembuhkan segala penyakit</item>
+        <item>Mempelajari sejarah sejati dengan menemukan Rio Poneglyph</item>
+        <item>Membangun dan mengarungi kapal terbesar di dunia</item>
+        <item>Bertemu kembali dengan Laboon</item>
+        <item>Mewujudkan perdamaian antara manusia dan manusia ikan</item>
+    </string-array>
+
+    <integer-array name="data_photo">
+        <item>@drawable/luffy</item>
+        <item>@drawable/zoro</item>
+        <item>@drawable/nami</item>
+        <item>@drawable/usopp</item>
+        <item>@drawable/sanji</item>
+        <item>@drawable/chopper</item>
+        <item>@drawable/robin</item>
+        <item>@drawable/franky</item>
+        <item>@drawable/brook</item>
+        <item>@drawable/jinbe</item>
+    </integer-array>
+
+
+</resources>
